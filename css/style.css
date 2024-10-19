@@ -499,14 +499,14 @@ body {
 }
 @media (max-width:488px){
 	.form__phone h1{
-		margin-right: 100px;
+		margin-right: 193px;
 	}
 	.form__phone p{
-		margin-right: 100px;
+		margin-right: 197px;
 	}
 	.form-container__img{
 		img{
-			width: 435px;
+			width: 330px;
 			padding: 0 0 50px 0;
 		}
 	}
@@ -514,17 +514,22 @@ body {
 		width: 344px;
 	}
 	.form-button{
-		width: 405px;
+		width: 308px;
 	}
 	.PhoneInputInput{
 		margin-right: -59px;
+		max-width: 100%;
 	}
 	.form-group{
-		margin-right: 54px;
+		margin-right: 77px;
 	}
 	#country-select{
-		/* padding-left: 60px; */
+		margin-left: 60px;
 	}
+	.form-group img {
+		margin-right: 223px;
+	}
+
 }
 /* =============================== */
 .form__phone{
@@ -545,7 +550,7 @@ body {
   margin-top: 8px;
 }
 .form-container__img{
-	width: 440px;
+	width: 460px;
 }
 
 .fTrFjs {
