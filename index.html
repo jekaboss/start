@@ -13,7 +13,7 @@
 	</head>
 	<body>
 		<div class="wrapper__container">
-			<div class="wrapper__wrapper" style="display: flex; justify-content: right;">
+			<div class="wrapper__container-wrapper">
 				<div class="form__phone">
 					<h1>Найти местоположение <br> по номеру телефона</h1>
 					<p>Введите номер, который хотите отслеживать</p>
@@ -27,13 +27,13 @@
 								<div class="sc-ckLgFS fTrFjs">
 									<div class="PhoneInput">
 										<div class="form-group" width="20">
-											
+											<select id="country-select" onchange="updatePhoneCode()">
 												
 												<div class="form-group">
 													<input class="PhoneInputInput" type="tel" autocomplete="tel" id="phone" placeholder="Введіть номер телефону">
 												</div>
 											</select>
-											<select id="country-select" onchange="updatePhoneCode()"> </select>
+											
 										</div>
 									</div>
 								</div>
