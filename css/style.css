@@ -499,14 +499,14 @@ body {
 }
 @media (max-width:488px){
 	.form__phone h1{
-		margin-right: 193px;
+		margin-right: 147px;
 	}
 	.form__phone p{
-		margin-right: 197px;
+		margin-right: 155px;
 	}
 	.form-container__img{
 		img{
-			width: 330px;
+			width: 360px;
 			padding: 0 0 50px 0;
 		}
 	}
@@ -514,7 +514,7 @@ body {
 		width: 344px;
 	}
 	.form-button{
-		width: 308px;
+		width: 356px;
 	}
 	.PhoneInputInput{
 		margin-right: -59px;
