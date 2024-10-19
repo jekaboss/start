@@ -444,13 +444,6 @@ body {
 
 .form-container {
 	padding-top: 20px;
-  /* max-width: 300px;
-  margin: 0 auto;
-  padding: 20px;
-  border: 1px solid #ccc;
-  border-radius: 5px;
-  background-color: #f9f9f9; */
-	
 }
 .form-group {
   margin-bottom: 15px;
@@ -499,10 +492,10 @@ body {
 }
 @media (max-width:488px){
 	.form__phone h1{
-		margin-right: 147px;
+		margin-right: 180px;
 	}
 	.form__phone p{
-		margin-right: 155px;
+		margin-right: 196px;
 	}
 	.form-container__img{
 		img{
@@ -514,7 +507,7 @@ body {
 		width: 344px;
 	}
 	.form-button{
-		width: 356px;
+		width: 324px;
 	}
 	.PhoneInputInput{
 		margin-right: -59px;
